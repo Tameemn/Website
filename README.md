@@ -1,1 +1,3 @@
-# Website
+My first small project I have made using HTML. Due to my high interests of cars the site consists of small amount of informartion of the vehicle Lamborghini Huracan. I have learnt basic but important elements such header <h1> elements aswell as paragraph <p> elements to write text in and implemented on to my site to showcase information. Also used list and table elements to demonstrate information differently to the viewer. I adjusted the layout of my pages using horizantal rule. Made use of anchor tags to split my information across different tabs. Also used Href to link different websites on my site. Also added images on the site sourcing from links on the web. 
+
+This was my first introdutcion to code learnt that Html is the building blocks to a website. And other languages e.g CSS, Javascript work around or manipulate Hmtl ultimatly change what you see on the website page or how it works.
